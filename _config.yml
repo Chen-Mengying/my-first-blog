@@ -7,7 +7,6 @@ username: Crace
 # 网站副标题
 description: "支持女性在科技领域的发展（UNDP HERstory 活动）"
 
-aboutme: "我的生活，工作 😉🍕🎧"
 
 # 其它配置, 可忽略, 无需修改
 markdown: kramdown
